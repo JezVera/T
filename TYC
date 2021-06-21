@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0 type="estream" channelId="-1" name="TYC SPORTS" group="DEPORTES" logo="//servidor10.xyz/images/tycsports.png" tvg-country="AR", TYC SPORTS
+https://playback2.akamaized.net/streams/27014129_8167338_lsi8ihk95q9uhis36az_1/master.m3u8?dw=80&hdnts=exp=1624315848~acl=/streams/27014129_8167338_lsi8ihk95q9uhis36az_1/master.m3u8*~hmac=8722f3781cd491c568d37647d53def95518e3385ccad1f45e508683a1079e6cf
+
